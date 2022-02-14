@@ -1,0 +1,31 @@
+구분	작업	시작일	기간	종료일
+Analysis			21	
+	Development Environment setup 1		6	
+	Document Current System		8	
+	Conceptualizing		2	
+	Define Requirements and Expectations		3	
+	Analysis Finished		1	
+	Review		1	
+Design			18	
+	Design Database		0	
+	Software Design		6	
+	Interface Design		3	
+	Create Design Specifications		7	
+	Approval & Review		1	
+	Design Finished		1	
+Development			26	
+	Development Environment setup 2		2	
+	Develop System Module		12	
+	Integrate System Module		7	
+	Perform Initial Testing		3	
+	Review		1	
+	Development Finished		1	
+Testing			19	
+	Review		1	
+	Perform System Testing		8	
+	Document Issues Found		6	
+	Correct Issues Found		3	
+	Testing Finished		1	
+Implementation			13	
+	On-Site Installation		1	
+	Support Plan for the System		12	
